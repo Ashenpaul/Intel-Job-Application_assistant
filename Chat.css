@@ -1,0 +1,5 @@
+.job-tools input[type="file"] {
+  padding: 0.5rem;
+  border: 1px solid #e1e5e9;
+  border-radius: 10px;
+}
