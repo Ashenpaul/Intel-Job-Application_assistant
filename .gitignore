@@ -1,0 +1,11 @@
+# Python
+*.pyc
+__pycache__/
+python.exe
+
+# Node.js
+node_modules/
+
+# Virtual environment
+venv/
+.env
